@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "personal_portfolio",
+    "name": "fitness-workout-expo-react-native-app",
     "slug": "personal_portfolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "personalportfolio",
+    "scheme": "fitnessworkoutexporeactnative-app",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
